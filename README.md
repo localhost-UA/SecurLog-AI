@@ -34,3 +34,5 @@ SecurLog вирішує це:
 
     Запустіть проєкт: start.bat (або streamlit run app.py)
 
+Демо
+<img width="1280" height="635" alt="photo_2026-06-09_23-48-00" src="https://github.com/user-attachments/assets/455de75b-12d4-4db4-a2e6-db41430ae976" />
